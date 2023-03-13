@@ -40,7 +40,7 @@ nav{
     padding: 10px;
 }
 .search-box{
-    width: 350px;
+    width: 400px;
     position: relative;
     
 
@@ -50,7 +50,7 @@ nav{
  
    
 }
-#text{
+#textBox{
     flex: 1;
     border: none;
     outline: none;
